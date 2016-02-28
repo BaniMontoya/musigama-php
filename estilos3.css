@@ -1,0 +1,113 @@
+
+body{
+color:#000;
+text-align:left;
+margin:0px;
+}
+img {
+border: none;
+text-decoration: none;
+}
+div{
+overflow: hidden;}
+#escalajonica, #escaladorica, #escalafrigia, #escalalidia, #escaladominante, #escalaeolica, #escalalocria, input, button, a{
+    height: auto;
+    display: table;
+    border: 2px solid #999999;
+    border-bottom:3px solid #dbdbdb;
+    border-right:3px solid #dbdbdb;
+    margin:5px;
+    padding:5px;
+    color:#777777;
+    font-size:1.5em;
+    background: #fcfcfc; 
+background: -moz-linear-gradient(left, #fcfcfc 0%, #f6f6f6 49%, #fbfbfb 50%, #ffffff 100%);
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fcfcfc), color-stop(49%,#f6f6f6), color-stop(50%,#fbfbfb), color-stop(100%,#ffffff)); 
+background: -webkit-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); 
+background: -o-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); 
+background: -ms-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); 
+background: linear-gradient(to right, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ffffff',GradientType=1 );  -moz-box-shadow: 3px 3px 12px #999999;
+-webkit-box-shadow: 3px 3px 12px #999999;
+box-shadow: 3px 3px 12px #999999;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+
+   
+}
+
+body{
+    border: 2px solid #999999;
+    border-bottom:3px solid #dbdbdb;
+    border-right:3px solid #dbdbdb;
+    margin:25px;
+    padding:25px;
+    color:#777777;
+    background: #fcfcfc; /* Old browsers */
+background: -moz-linear-gradient(left, #fcfcfc 0%, #f6f6f6 49%, #fbfbfb 50%, #ffffff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fcfcfc), color-stop(49%,#f6f6f6), color-stop(50%,#fbfbfb), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* IE10+ */
+background: linear-gradient(to right, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */  -moz-box-shadow: 3px 3px 12px #999999;
+-webkit-box-shadow: 3px 3px 12px #999999;
+box-shadow: 3px 3px 12px #999999;
+-moz-border-radius: 12px;
+-webkit-border-radius: 12px;
+border-radius: 12px;
+
+}
+h1, h2, h3, h4, h5, h6 {
+    float: left;}
+select, #encabezado{
+    clear: both;
+    border-bottom:3px solid #dbdbdb;
+    border-right:3px solid #dbdbdb;
+    margin:5px;
+    padding:5px;
+    color:#777777;
+background: -moz-linear-gradient(left, #fcfcfc 0%, #f6f6f6 49%, #fbfbfb 50%, #ffffff 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, right top, color-stop(0%,#fcfcfc), color-stop(49%,#f6f6f6), color-stop(50%,#fbfbfb), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* IE10+ */
+background: linear-gradient(to right, #fcfcfc 0%,#f6f6f6 49%,#fbfbfb 50%,#ffffff 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fcfcfc', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */  -moz-box-shadow: 3px 3px 12px #999999;
+-webkit-box-shadow: 3px 3px 12px #999999;
+box-shadow: 3px 3px 12px #999999;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;}
+
+
+div#escalajonica {
+    margin:5px;
+    padding:5px;
+    border: 5px solid red;
+}
+div#escaladominante { margin:5px;
+    padding:5px;
+    border: 5px solid #ff9900;
+}
+div#escaladorica { margin:5px;
+    padding:5px;
+    border: 5px solid #ffcc00;
+}
+div#escalafrigia { margin:5px;
+    padding:5px;
+    border: 5px solid #66ccff;
+}
+div#escalalidia { margin:5px;
+    padding:5px;
+    border: 5px solid #cc0099;
+}
+div#escalaeolica { margin:5px;
+    padding:5px;
+    border: 5px solid #339900;
+}
+div#escalalocria{   margin:5px;
+    padding:5px;
+  border: 5px solid #9900ff;
+}
